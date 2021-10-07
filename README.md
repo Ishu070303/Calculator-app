@@ -3,7 +3,7 @@
 
 ## Technology Stack 
 </br>
-Please get familiar with the components of the project in order to be able to contribute.
+> Please get familiar with the components of the project in order to be able to contribute.
 
 ### components
 - CSS: Styling web pages, html files
